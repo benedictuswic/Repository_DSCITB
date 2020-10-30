@@ -2,7 +2,7 @@
 <p>Untuk memenuhi syarat pendaftaran DSC ITB 2020</p>
 
 # Tentang Saya
-<p>Nama saya Benedictus Bimo Cahyo Wicaksono. Saya adalah mahasiswa tingkat 1 Institut Teknologi Sepuluh Nopember Surabaya, departemen Teknik Informatika, angkatan 2020.</p><br>
+<p>Nama saya Benedictus Bimo Cahyo Wicaksono. Saya adalah mahasiswa tingkat 1 Institut Teknologi Sepuluh Nopember Surabaya, departemen Teknik Informatika, angkatan 2020.</p>
 
 # Google Product - Android Studio
 <center><img src="https://miro.medium.com/max/1200/1*7PktPIVe5jSsSZOw4hjS0g.png"></center>
