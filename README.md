@@ -29,4 +29,4 @@
   -Test Lab<br>
   -Google Analytics, dan masih banyak lagi.</p>
   
-  <p>Menurut saya kelebihan dari Firebase ini adalah fiturnya yang sangat banyak dan memudahkan developer dalam mengembangkan aplikasi maupun web, yang mudah diintegrasikan pada iOS, Android, dan juga web.
+  <p>Menurut saya kelebihan dari Firebase ini adalah fiturnya yang sangat banyak dan memudahkan developer dalam mengembangkan aplikasi maupun web.
